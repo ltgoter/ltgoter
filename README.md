@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ltgoter
+- 👀 I’m interested in network, system, high performance
+- 🌱 I’m currently learning rdma, fpga, and os system
+- 💞️ I’m looking to collaborate on network disggregation system design or high performance challenge.
+- 📫 How to reach me ... email: ltfwimn@gmail.com
